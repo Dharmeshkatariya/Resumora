@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Builder",
+  "description": "An ultra-premium, beautifully styled AI-powered SaaS resume builder, featuring real-time interactive tailoring, ATS scoring, Job Analyser, Portfolio Builder, and Application Kanban board.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
