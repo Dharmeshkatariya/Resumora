@@ -65,7 +65,7 @@ export interface ResumeStyles {
   spacingScale: "compact" | "normal" | "spacious" | "generous";
   accentColor: string; // neon mint #00FFB2, electric blue #0066FF, etc.
   borderRadius: "sharp" | "soft" | "round";
-  headerStyle: "classic" | "modern" | "minimal" | "bold" | "creative";
+  headerStyle: "classic" | "modern" | "minimal" | "bold" | "creative" | "executive" | "luxury" | "startup" | "designer" | "corporate";
   dividerStyle: "line" | "dots" | "none" | "gradient";
   showNumbering: boolean;
   iconStyle: "none" | "filled" | "outline";
